@@ -1,0 +1,3 @@
+[submodule "login-react-typescript"]
+	path = login-react-typescript
+	url = https://github.com/thyagodcarvalho/login-react-typescript.git
