@@ -1,3 +1,6 @@
 [submodule "login-react-typescript"]
 	path = login-react-typescript
 	url = https://github.com/thyagodcarvalho/login-react-typescript.git
+[submodule "auth-api-task"]
+	path = auth-api-task
+	url = https://github.com/thyagodcarvalho/auth-api-task.git
